@@ -1,5 +1,3 @@
-readme.md
-
 -- Unzip the submitted folder on a location
 -- Locate the "Decision_trees.py" file.
 -- Copy or unzip the data folder (initially provided with the assignment) in the same directory. Please note - the path for reading the data file is provided as, e.g. : "/data/monks-1.train". Therefore we need the whole data directory in the same place as the Decision_trees.py file.
