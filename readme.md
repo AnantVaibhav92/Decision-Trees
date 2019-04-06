@@ -1,4 +1,4 @@
-# Decision Tree
+# Decision Trees
 This is a project in python aimed to create the decision tree from scratch using ID3 algorithm
 
 Here we use the information gain to recursively figure out the best feature to split on. 
