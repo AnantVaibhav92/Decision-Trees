@@ -5,6 +5,8 @@ Here we use the information gain to recursively figure out the best feature to s
 
 Copy or unzip the data folder (initially provided with the assignment) in the same directory. Please note - the path for reading the data file is provided as, e.g. : "/data/monks-1.train". Therefore we need the whole data directory in the same place as the Decision_trees.py file.
 
+We create the decision tree, then visualize it and observe the performence by using the confusion matrix.
+
 **Files**: Decision_trees.ipynb
 **Folders**: Data
 
